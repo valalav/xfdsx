@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,crashlytics
 DOMAIN-SUFFIX,analytic
 DOMAIN-SUFFIX,measurement
 DOMAIN-SUFFIX,buzzoola
+DOMAIN,vivo.com,REJECT
+DOMAIN-KEYWORD,ya.com,REJECT
